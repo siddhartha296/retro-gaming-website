@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+dist/
+
+# Vite build artifacts
+.vite/
+
+# Firebase build artifacts
+.firebase/
+firebase-debug.log
+firebase-error.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor/OS specific files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
